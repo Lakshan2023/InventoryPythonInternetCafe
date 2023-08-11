@@ -1,0 +1,1 @@
+[{'dealer_name': 'Malik Peiris', 'contact_no': '011 2756342', 'location': 'Negambo'}, {'item_name': 'Web cam', 'item_brand': 'Sony', 'item_price': 'Rs. 8750', 'quantity': '15'}, {'item_name': 'Telephone', 'item_brand': 'Panasonic', 'item_price': 'Rs. 7500', 'quantity': '4'}, {'item_name': 'computer chairs', 'item_brand': 'Damro', 'item_price': 'Rs. 27500', 'quantity': '10'}]

@@ -1,0 +1,1 @@
+[{'dealer_name': 'Simon Watson', 'contact_no': '011 4768579', 'location': 'Galle'}, {'item_name': 'Work Station Table', 'item_brand': 'Singer', 'item_price': 'Rs. 20375', 'quantity': '18'}, {'item_name': 'Key Board', 'item_brand': 'Axus', 'item_price': 'Rs. 5490', 'quantity': '12'}, {'item_name': 'UPS', 'item_brand': 'Pro Link', 'item_price': 'Rs. 7865', 'quantity': '10'}]

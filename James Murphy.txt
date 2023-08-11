@@ -1,0 +1,1 @@
+[{'dealer_name': 'James Murphy', 'contact_no': '011 5878675', 'location': 'Badulla'}, {'item_name': 'Computer Chairs', 'item_brand': 'Arpico', 'item_price': 'Rs. 25000', 'quantity': '20'}, {'item_name': 'Network Cables', 'item_brand': 'Lenson', 'item_price': 'Rs. 70000', 'quantity': '25'}, {'item_name': 'Router', 'item_brand': 'SLT', 'item_price': 'Rs. 4500', 'quantity': '10'}]

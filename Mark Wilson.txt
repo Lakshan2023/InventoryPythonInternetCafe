@@ -1,0 +1,1 @@
+[{'dealer_name': 'Mark Wilson', 'contact_no': '011 3767676', 'location': 'Kandy'}, {'item_name': 'Network Switch', 'item_brand': 'Lansan', 'item_price': 'Rs. 5500', 'quantity': '20'}, {'item_name': 'Key Board', 'item_brand': 'Jedel', 'item_price': 'Rs. 7000', 'quantity': '18'}, {'item_name': 'Head Phones', 'item_brand': 'JBL', 'item_price': 'Rs. 9750', 'quantity': '10'}]

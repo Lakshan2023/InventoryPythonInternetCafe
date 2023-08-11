@@ -1,0 +1,1 @@
+[{'item_code': '0003', 'item_name': 'Switch', 'item_brand': 'Hikvision', 'item_price': 5650.0, 'item_quantity': 13, 'item_category': 'Computer Hardware', 'purchased_date': '2023/01/13'}]

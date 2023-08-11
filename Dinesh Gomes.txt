@@ -1,0 +1,1 @@
+[{'dealer_name': 'Dinesh Gomes', 'contact_no': '011 2868657', 'location': 'Nugegoda'}, {'item_name': 'Computr mouse', 'item_brand': 'Asus', 'item_price': 'Rs. 7250', 'quantity': '16'}, {'item_name': 'Computer Chairs', 'item_brand': 'Finex', 'item_price': 'Rs. 15500', 'quantity': '13'}, {'item_name': 'Laptop', 'item_brand': 'Acer', 'item_price': 'Rs. 228568', 'quantity': '4'}]
